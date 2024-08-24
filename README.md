@@ -67,10 +67,10 @@ Welcome to **GitHub Repo Searcher**! 🚀 This is a Streamlit web application de
 
 ## Screenshots
 
-![Screenshot](screenshots/search_results.png)
+![Search Results](https://github.com/SauravSrivastav/githubreposearcher/blob/main/data/1.png)
 *Search results displayed in a tabular format.*
 
-![Screenshot](screenshots/download_options.png)
+![Download Options](https://github.com/SauravSrivastav/githubreposearcher/blob/main/data/2.png)
 *Download options for CSV and Excel files.*
 
 ## License
