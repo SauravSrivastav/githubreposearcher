@@ -1,13 +1,17 @@
+---
 
- # GitHub Repo Searcher
+# GitHub Repo Searcher 🔍
 
-GitHub Repo Searcher is a Streamlit web application that allows users to search for GitHub repositories based on a query and view the results in a tabular format. Users can also download the results in CSV or Excel format.
+## Description
+
+Welcome to **GitHub Repo Searcher**! 🚀 This is a Streamlit web application designed to help you search for GitHub repositories based on a query and view the results in a tabular format. You can also download the results in CSV or Excel format for further analysis.
 
 ## Features
 
-- Search GitHub repositories by query.
-- Display results in a tabular format.
-- Download results as CSV or Excel files.
+- **Search GitHub Repositories**: Enter a search query to find relevant repositories.
+- **Display Results**: View the search results in a tabular format with details such as repository name, description, URL, stars, forks, creation date, and last update date.
+- **Download Results**: Export the search results as CSV or Excel files.
+- **Customizable Search Options**: Sort results by stars, forks, or update date, and adjust the number of results per page.
 
 ## Setup
 
@@ -20,8 +24,8 @@ GitHub Repo Searcher is a Streamlit web application that allows users to search 
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/github_repo_searcher.git
-   cd github_repo_searcher
+   git clone https://github.com/SauravSrivastav/githubreposearcher.git
+   cd githubreposearcher
    ```
 
 2. **Create a virtual environment**:
@@ -56,10 +60,34 @@ GitHub Repo Searcher is a Streamlit web application that allows users to search 
 
 ## Usage
 
-1. Enter a search query in the input field.
-2. Click the "Search" button to fetch and display the results.
-3. Use the download buttons to save the results as CSV or Excel files.
+1. **Enter a search query** in the input field.
+2. **Adjust the search options** if needed (sort by stars, forks, or update date, and set the number of results per page).
+3. **Click the "Search" button** to fetch and display the results.
+4. **Use the download buttons** to save the results as CSV or Excel files.
+
+## Screenshots
+
+![Screenshot](screenshots/search_results.png)
+*Search results displayed in a tabular format.*
+
+![Screenshot](screenshots/download_options.png)
+*Download options for CSV and Excel files.*
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues and enhancement requests.
+
+## Acknowledgments
+
+- Thanks to the Streamlit community for providing an excellent framework for building web applications.
+- Thanks to the GitHub API for providing access to repository data.
+
+## Contact
+
+For any questions or suggestions, please feel free to reach out to me at [sauravsrivastav2205@gmail.com](mailto:sauravsrivastav2205@gmail.com).
+
+---
